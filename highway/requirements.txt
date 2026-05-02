@@ -1,0 +1,7 @@
+gymnasium
+highway-env
+matplotlib
+numpy
+pandas
+seaborn
+torch
